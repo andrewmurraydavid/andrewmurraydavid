@@ -12,6 +12,12 @@ I have worked with several languages until now, but I must admit that I am a Jav
 
 I am a big advocate of microservice based systems. Change my mind! 😄
 
+---
+
+### Let's get in touch:
+- Email: andrewmurraydavid@gmail.com
+- Discord: andrewmurraydavid#4505
+
 <!--
 **andrewmurraydavid/andrewmurraydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
