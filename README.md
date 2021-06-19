@@ -15,8 +15,8 @@ I am a big advocate of microservice based systems. Change my mind! 😄
 ---
 
 ### Let's get in touch:
-- Email: andrewmurraydavid@gmail.com
-- Discord: andrewmurraydavid#4505
+- Shoot me an email
+- Find me on discord: andrewmurraydavid#4505
 
 <!--
 **andrewmurraydavid/andrewmurraydavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
