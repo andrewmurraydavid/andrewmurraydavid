@@ -17,8 +17,8 @@ I am a big advocate of microservice based systems. Change my mind! 😄
   - iOS app
   - Android app
   - Website with PWA
-- All kind of small CTFs and cybersecurity challanges
-- Researching and testing various GTP and LLM models
+- All kind of small CTFs and cybersecurity challenges
+- Researching and testing various GPT and LLM models
 
 ---
 
